@@ -45,10 +45,8 @@ This project replicates the visual layout and basic interactive functionalities 
 (You can add your project screenshots here!)
 
 ```
-📌 Example:
-- Homepage UI
-- Product Sections
-- Navigation Bar
+<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/f502fc87-cb85-46b0-892a-42dacd1296ba" />
+
 ```
 
 ## ⚙️ How to Run the Project
