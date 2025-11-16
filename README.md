@@ -32,7 +32,7 @@ This project replicates the visual layout and basic interactive functionalities 
 | -------------- | ------------------------------------------ |
 | **HTML5** | Structure of the pages |
 | **CSS3** | Styling, layout, responsiveness |
-| **JavaScript** | UI interactions, sliders, dynamic sections |
+
 
 ---
 
