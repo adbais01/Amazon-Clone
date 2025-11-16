@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone
 
-A fully responsive **Amazon Clone** built using **HTML, CSS, and JavaScript**.
+A fully responsive **Amazon Clone** built using **HTML & CSS**.
 This project replicates the visual layout and basic interactive functionalities of Amazon's homepage, showcasing front-end development skills with a clean UI and smooth user experience.
 
 ---
